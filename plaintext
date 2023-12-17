@@ -1,0 +1,13 @@
+hotel-management/
+|-- main.go
+|-- api/
+|   |-- handlers.go
+|   |-- models.go
+|   |-- routes.go
+|-- db/
+|   |-- database.go
+|-- tests/
+|   |-- handlers_test.go
+|-- README.md
+|-- go.mod
+|-- go.sum
